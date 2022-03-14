@@ -1,0 +1,3 @@
+http://esgf-data3.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/HighResMIP/ECMWF/ECMWF-IFS-HR/hist-1950/r1i1p1f1/day/pr/gr/v20170915/pr_day_ECMWF-IFS-HR_hist-1950_r1i1p1f1_gr_19900101-19901231.nc
+http://esgf3.dkrz.de/thredds/fileServer/cmip6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/day/tasmin/gn/v20190710/tasmin_day_MPI-ESM1-2-HR_ssp370_r1i1p1f1_gn_20250101-20291231.nc
+http://esgf3.dkrz.de/thredds/fileServer/cmip6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp370/r1i1p1f1/day/tasmax/gn/v20190710/tasmax_day_MPI-ESM1-2-HR_ssp370_r1i1p1f1_gn_20400101-20441231.nc
